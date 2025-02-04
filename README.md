@@ -1,2 +1,4 @@
-## CannedVideoEditor-OpenSource
-Powerful Open Source Video Editor App for Android By Umirtech
+### CannedVideoEditor-OpenSource
+Powerful Open Source Video Editor App for Android By Umirtech.
+
+This App is Under Development Releasing Soon....
